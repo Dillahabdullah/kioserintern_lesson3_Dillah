@@ -1,0 +1,22 @@
+A. BACKEND
+
+1. Internet
+
+a. How does the Internet work(Bagaimana internet bekerja)?
+-Cara kerja internet adalah dengan memanfaatkan alamat IP yang berguna sebagai penghubung antara server-server di seluruh dunia. Internet bekerja sangat cepat karena didukung oleh satelit yang memancarkan gelombang internet ke seluruh dunia. 
+
+b. What is Http (apa itu http)? 
+-HTTP adalah dasar dari setiap pertukaran data di web dan merupakan protokol client-server yang berarti permintaan diinisiasi oleh penerima, biasanya web browser. Dengan HTTP, client dan server dapat saling berkomunikasi dengan bertukar pesan.
+
+c. Browsers and how they work(browser dan bagaimana cara kerjanya? 
+-Pengertian browser adalah suatu perangkat lunak atau software yang digunakan untuk mencari informasi atau mengakses situs-situs yang ada di internet. 
+-Cara kerjanya yaitu: Perangkat akan lebih memudahkan pengguna dalam mengakses data atau mencari referensi yang dibutuhkan. 
+
+d. DNS and how it works (DNS dan bagaimana cara kerjanya)? 
+Sistem dns internet bekerja seperti buku telepon dengan mengelola pemetaan antara nama dan nomor server dns menerjemahkan permintaan nama menjadi alamat IP, mengontrol server mana yang akan dijangkau pengguna terakhir saat mereka mengetikkan nama domain ke browser web mereka. 
+
+e. What is Domain Name (apa itu nama domain)? 
+Domain name adalah alamat unit dan mudah  diingat yang digunakan untuk mengakses situs web, seperti google.com, Facebook.com. Pengguna dapat terhubung ke situs web menggunakan nama domain berkat sistem dns
+
+f. What is Hosting (apa itu hosting)?
+Hosting adalah layanan online yang memungkinkan anda mempublikasikan file situs web anda ke internet serta mengatur siapa saja yang dapat mengakses file anda.  Contohnya saat dipublikasikan secara umum sehingga dapat dijangkau oleh semua orang.
